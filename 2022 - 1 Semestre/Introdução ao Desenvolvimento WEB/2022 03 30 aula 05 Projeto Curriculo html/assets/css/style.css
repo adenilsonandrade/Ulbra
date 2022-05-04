@@ -1,0 +1,105 @@
+.tudo{
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 4px;
+    border: solid 1px;
+    padding: 30px 30px 30px 30px;
+}
+.linha{
+    clear:both;
+}
+#left{
+    width: 45%;
+    float: left;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#middle{
+    width:1px;
+    height: 500px;
+    margin-top: 25px;
+    float:left;
+    background-color:teal;
+}
+#right{
+    width: 46%;
+    float: left;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+}
+h1{
+    background-color: teal;
+    border-radius: 5px;
+    color: white;
+    font-size: 30px;
+    margin-top: 0px;
+    padding: 10px;
+    text-align: center;
+}
+h2{
+    font-size: 26px;
+    text-align: left;
+    margin-bottom: 0px;
+
+}
+h3{
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+h4{
+    margin-bottom: 0;
+}
+hr{
+    border-color: teal;
+    border-width: 0;
+    border-top-width: 2px;
+}
+p{
+    margin-top: 0;
+}
+#img{
+    max-width: 150px;
+    border-radius: 50%;
+    border: solid 2px teal;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#icone{
+    max-width: 30px;
+    margin-top: 5px;
+    margin-right: 5px;
+    border-radius: 20%;
+}
+#foto{
+    width: 20%;
+    float: left;
+    padding: 10px;
+}
+#dados{
+    width: 60%;
+    float: left;
+    text-align: left;
+    vertical-align: middle;
+    margin-top: 30px;
+    margin-left: 60px;
+    font-size: 18px;
+}
+.circle{
+    width: 10px;
+    height: 10px;
+    background-color: teal;
+    border-radius: 50%;
+    float: right;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.itens{
+    float:left
+}
+.contato{
+    color:teal
+}
