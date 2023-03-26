@@ -1,0 +1,15 @@
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 03 08 - Aula 2\Exercícios\bin\Debug\net7.0\Exercícios.exe
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 03 08 - Aula 2\Exercícios\bin\Debug\net7.0\Exercícios.deps.json
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 03 08 - Aula 2\Exercícios\bin\Debug\net7.0\Exercícios.runtimeconfig.json
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 03 08 - Aula 2\Exercícios\bin\Debug\net7.0\Exercícios.dll
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 03 08 - Aula 2\Exercícios\bin\Debug\net7.0\Exercícios.pdb
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 03 08 - Aula 2\Exercícios\obj\Debug\net7.0\Exercícios.csproj.AssemblyReference.cache
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 03 08 - Aula 2\Exercícios\obj\Debug\net7.0\Exercícios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 03 08 - Aula 2\Exercícios\obj\Debug\net7.0\Exercícios.AssemblyInfoInputs.cache
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 03 08 - Aula 2\Exercícios\obj\Debug\net7.0\Exercícios.AssemblyInfo.cs
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 03 08 - Aula 2\Exercícios\obj\Debug\net7.0\Exercícios.csproj.CoreCompileInputs.cache
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 03 08 - Aula 2\Exercícios\obj\Debug\net7.0\Exercícios.dll
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 03 08 - Aula 2\Exercícios\obj\Debug\net7.0\refint\Exercícios.dll
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 03 08 - Aula 2\Exercícios\obj\Debug\net7.0\Exercícios.pdb
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 03 08 - Aula 2\Exercícios\obj\Debug\net7.0\Exercícios.genruntimeconfig.cache
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 03 08 - Aula 2\Exercícios\obj\Debug\net7.0\ref\Exercícios.dll
