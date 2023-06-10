@@ -1,0 +1,21 @@
+**Exercício 1:**
+Crie uma interface chamada `Imprimivel` com um método chamado `imprimir`. Implemente essa interface em uma classe chamada `Documento`.
+**Exercício 2:**
+Estenda o exercício 1 adicionando uma classe `Foto` que também implementa a interface `Imprimivel`.
+**Exercício 3:**
+Crie uma interface chamada `Voador` com os métodos `decolar`, `voar` e `aterrar`. Implemente essa interface nas classes `Aviao`, `Pássaro` e `Superman`.
+**Exercício 4:**
+Crie duas interfaces, `Carregável` e `Descarregável`, cada uma com um método `carga`. Crie uma classe `Bateria` que implemente ambas as interfaces.
+**Exercício 5:**
+Crie uma interface `FormaGeometrica` com métodos para calcular a área e o perímetro. Implemente essa interface nas classes `Retangulo`, `Circulo` e `Triangulo`.
+**Exercício 6:**
+Crie uma interface `Animal` com os métodos `comer` e `dormir`. Crie classes `Gato`, `Cachorro` e `Elefante` que implementem essa interface.
+**Exercício 7:**
+Crie uma interface `Musical` com métodos para `tocar`, `parar` e `pausar`. Implemente essa interface nas classes `Guitarra`, `Piano` e `Bateria`.
+**Exercício 8:**
+Crie uma interface `Pagável` com métodos para `pagar` e `verificarPagamento`. Implemente essa interface nas classes `Fatura`, `Cheque` e `Deposito`.
+**Exercício 9:**
+Crie duas interfaces, `Andador` com o método `andar` e `Corredor` com o método `correr`. Crie uma classe `Atleta` que implemente ambas as interfaces.
+**Exercício 10:**
+Crie uma interface `Persistente` com métodos para `salvar`, `atualizar`, `deletar` e `buscar`. Implemente essa interface em uma classe `Usuario`.
+Para cada exercício, teste as classes criadas instanciando os objetos e chamando os métodos definidos nas interfaces.
